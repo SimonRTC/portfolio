@@ -64,30 +64,24 @@
 
         <div class="section-title">
           <h2>À propos de moi</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Un court résumé de mon niveau et de mon intérêt pour le numérique</p>
         </div>
 
-        <div class="row">
-          <div class="col-lg-4">
-            <img src="/assets/img/profile-img.jpg" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-8 pt-4 pt-lg-0 content">
-            <h3>Développeur Web <u>&amp;</u> Backend</h3>
-            <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
+        <div class="row justify-content-center mt-4">
+          <div class="col-lg-11 pt-4 pt-lg-0 content">
+            <h3>Développeur Web</h3>
+            <p class="font-italic mb-4">Un métier qui m'anime et me passionne.</p>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Anniversaire:</strong><span class="float-right">2 Juin</span></li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Site:</strong><span class="float-right">simonmalpel.fr</span></li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Disponibilité:</strong><span class="float-right">Disponible</span></li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Site:</strong><span class="float-right">www.simonmalpel.fr</span></li>
                   <li><i class="icofont-rounded-right"></i> <strong>Ville:</strong><span class="float-right">Nantes</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Niveau:</strong><span class="float-right">Débutant</span></li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Niveau:</strong><span class="float-right">Intermédiaire</span></li>
                   <li><i class="icofont-rounded-right"></i> <strong>Email:</strong><span class="float-right">simon.malpel@orange.fr</span></li>
                   <li><i class="icofont-rounded-right"></i> <strong>Freelance:</strong><span class="float-right">Pas pour le moment</span></li>
                 </ul>
@@ -98,7 +92,7 @@
               je n'ai jamais cessé de porter un intérêt au développement et généralement au monde de l'informatique.
               Voilà près de <b>10 ans</b> que je joue de mes connaissances en développement aussi bien en web que sur des plateformes de jeux comme <a href="https://www.minecraft.net/" target="_blank">Minecraft</a>,
               <a href="https://www.sa-mp.com/" target="_blank">GTA San Andreas Multiplayer</a> et même plus récemment sur <a href="https://fivem.net/" target="_blank">FiveM</a> et <a href="https://redm.gg/" target="_blank">RedM</a>.
-              <br /><br />&gt; <u>J'aimerais transformer ses connaissances en m’investissant dans une entreprise,</u> Si vous êtes intéressé par mon profil n'hésitez pas à me contacter.
+              <br /><br />J'aimerais transformer ses connaissances en m’investissant dans une entreprise, Si vous êtes intéressé par mon profil n'hésitez pas à me contacter.
             </p>
           </div>
         </div>
@@ -151,16 +145,16 @@
             </div>
 
             <div class="progress">
-              <span class="skill">Python <i class="val">5%</i></span>
+              <span class="skill">Python <i class="val">10%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Go <span class="small">(Golang)</span> <i class="val">3%</i></span>
+              <span class="skill">Go <span class="small">(Golang)</span> <i class="val">5%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="3" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
             
@@ -204,9 +198,9 @@
             </div>
 
             <div class="progress">
-              <span class="skill">VMware<i class="val">20%</i></span>
+              <span class="skill">VMware<i class="val">10%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -227,42 +221,47 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Resume</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Mes expériences et projets</h2>
+          <p>Voici la liste de mes expériences en entreprise dans le numérique et une partie de mes projets rendue publique</p>
         </div>
 
         <div class="row">
           <div class="col-lg-6">
-            <h3 class="resume-title">Sommaire</h3>
-            <div class="resume-item pb-0">
-              <h4>Simon Malpel</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
-              <ul>
-                <li>Portland par 127,Orlando, FL</li>
-                <li>(123) 456-7891</li>
-                <li>alice.barkley@example.com</li>
-              </ul>
-            </div>
-
-            <h3 class="resume-title">Education</h3>
+            <h3 class="resume-title">Projets personnels</h3>
             <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              <h4>Service de Cloud Providing</h4>
+              <p class="small"><i>(Le dépôt reste privé en vue d'une commercialisation du projet)</i></p>
+              <h5>2018 - Aujourd'hui</h5>
+              <p><em>Plateforme de gestion et d’administration de cloud</em></p>
+              <p>L’objectif de ce projet est de déployer une plateforme permanentant de commander, facturé et administrer des services managés et des serveurs physiques. Interconnecter des infrastructures physiques de différents data centers (AWS, GCP, OVH, ...) pour le créer qu'un seul service final.</p>
             </div>
             <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+              <h4>Serveur GTA:RP</h4>
+              <p class="small"><i>(Le dépôt reste privé en cas de redémarrage du projet)</i></p>
+              <h5>2018 - 2020</h5>
+              <p><em>Serveur de jeu roleplay en multijoueur basé sur GTA V</em></p>
+              <p>Un projet développé avec plusieurs collaborateurs visant à recréer un monde réel dans GTA V. Métiers, activées de divertissements, services d'urgence, etc. Un véritable monde dans un jeu.</p>
+            </div>
+            <div class="resume-item">
+              <h4>LCBD Manager</h4>
+              <p class="small"><a href="https://github.com/SimonRTC/lcdb-manager" target="_BLANK">github.com/SimonRTC/lcdb-manager</a></p>
+              <h5>2018 - 2019</h5>
+              <p><em>Interface d’administration pour le lycée collège de Bretagne</em></p>
+              <p>Un service de gestion complémentaire du logiciel "Pronote", permettant l'import des élèves et la création du trombinoscope par classe. Un service de gestion de la partie restauration de l'établissement est également disponible.</p>
+            </div>
+            <div class="resume-item">
+              <h4>Frameshort</h4>
+              <p class="small"><a href="https://github.com/SimonRTC/frameshort" target="_BLANK">github.com/SimonRTC/frameshort</a></p>
+              <h5>2016 - Aujourd'hui</h5>
+              <p><em>Framework PHP (MVC) léger et simple d'utilisation</em></p>
+              <p>Suite à un besoin d'un framework léger, simple à comprendre et rapide à déployer. J'ai donc commencé le développement du "frameshort" une base légère et minimaliste pour mes petits projets.</p>
             </div>
           </div>
           <div class="col-lg-6">
             <h3 class="resume-title">Expérience professionnelle</h3>
             <div class="resume-item">
               <h4>Stage en entreprise</h4>
-              <h5>02 Mars - <s>27</s> 17 Mars 2020</h5>
+              <h5>Mars 2020</h5>
               <p><em><a href="http://www.saiga.fr/">Saiga Informatique</a></em></p>
               <ul>
                 <li>Intégration d'un module open source de statistique au progiciel iMuse</li>
@@ -275,7 +274,7 @@
             </div>
             <div class="resume-item">
               <h4>Stage en entreprise</h4>
-              <h5>20xx - 20xx</h5>
+              <h5>Janvier 2018</h5>
               <p><em><a href="http://www.mellitis.com/">Mellitis</a></em></p>
               <ul>
                 <li>Création d'un service d’affichage numérique (écran publicitaire)</li>
@@ -285,7 +284,7 @@
             </div>
             <div class="resume-item">
               <h4>Stage en entreprise</h4>
-              <h5>20xx - 20xx</h5>
+              <h5>Janvier 2017</h5>
               <p><em><a href="https://boutique.isigny.org/">Isigny</a></em></p>
               <ul>
                 <li>Sécurisation des requêtes envoyées depuis les badgeuse au serveur de <a href="https://gestion.bensport.fr/" target="_blank">Gest-ACCESS</a></li>
@@ -304,7 +303,7 @@
 
         <div class="section-title">
           <h2>Mes lieux d'apprentissage</h2>
-          <p>Quelles plateformes m'ont permis d'apprendre et étoffer mes connaissances ? Voici la liste !</p>
+          <p>Voici la liste des plateformes qui m'ont permis d'apprendre et étoffer mes connaissances</p>
         </div>
 
         <div class="row">
@@ -318,7 +317,7 @@
                 <i class="bx bx-code-alt"></i>
               </div>
               <h4><a href="https://www.grafikart.fr/">Grafikart.fr</a></h4>
-              <p>La meilleure plateforme d’apprentissage ! Une large gamme de contenue, une pédagogie incroyable ! Et un prix plus qu'abordable (<b>0€</b>!)</p>
+              <p>La meilleure plateforme d’apprentissage !<br />Une large gamme de contenue et une pédagogie incroyable !</p>
             </div>
           </div>
 
@@ -331,7 +330,7 @@
                 <i class="bx bx-file"></i>
               </div>
               <h4><a href="https://openclassrooms.com/fr/">OpenClassrooms</a></h4>
-              <p>Des cours complets et une grande diversité des contenues, des formations rectifiantes reconnues (mais plutôt onéreuses!)</p>
+              <p>Des cours complets et une grande diversité des contenues, des formations certifiante et reconnues.</p>
             </div>
           </div>
 
@@ -391,33 +390,6 @@
 
       </div>
     </section><!-- End Services Section -->
-
-    <!-- ======= Passions Section ======= -->
-    <section id="passions" class="about">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Mes passions</h2>
-          <p>Musique, bon temps avec mes amis, des moments simples, voila mes trois piliers de vie.</p>
-        </div>
-
-        <div class="row justify-content-center mt-4">
-          <div class="col-lg-5">
-            <h3>Mes favoris du moment<br /><span class="small">Sur Spotify</span></h3>
-            <iframe class="mt-4" src="https://open.spotify.com/embed/playlist/3h8pxco2IHjH0t8Sp5gZE2" width="410" height="200" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 content">
-              <p class="text-justify">
-                On dit souvent que la musique reflète de notre personnalité,
-                je pense que si vous tentez de me comprendre via mes goûts musicaux c'est peine perdu pour vous !<br /><br />
-                Je peux passer de <b>Somethin' Stupid</b> de Frank Sinatra à <b>Dare Me</b> de Nervo en passant par <b>Rock Like a Hurricane</b> de Scorpions !<br /><br />
-                J'aime beaucoup de style de musique et comme dans le monde du développement je suis ouvert sur à toutes les nouveautés qui s'offrent à moi !
-              </p>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End About Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
