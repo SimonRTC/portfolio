@@ -15,9 +15,9 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Disponibilité:</strong><span class="float-right">Disponible</span></li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Disponibilité:</strong><span class="float-right">Immédiate</span></li>
                   <li><i class="icofont-rounded-right"></i> <strong>Site:</strong><span class="float-right">www.simonmalpel.fr</span></li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Ville:</strong><span class="float-right">Nantes</span></li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Ville:</strong><span class="float-right">Nantes (44)</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
@@ -29,11 +29,11 @@
               </div>
             </div>
             <p class="text-justify">
-              Depuis l'âge 8 ans où j'ai commencé à développer mes premiers mods en java sur la toute première version de Minecraft,
-              je n'ai jamais cessé de porter un intérêt au développement et généralement au monde de l'informatique.
-              Voilà près de <b>10 ans</b> que je joue de mes connaissances en développement aussi bien en web que sur des plateformes de jeux comme <a href="https://www.minecraft.net/" target="_blank">Minecraft</a>,
-              <a href="https://www.sa-mp.com/" target="_blank">GTA San Andreas Multiplayer</a> et même plus récemment sur <a href="https://fivem.net/" target="_blank">FiveM</a> et <a href="https://redm.gg/" target="_blank">RedM</a>.
-              <br /><br />J'aimerais transformer ses connaissances en m’investissant dans une entreprise, Si vous êtes intéressé par mon profil n'hésitez pas à me contacter.
+
+              Dès l'âge 8 ans  j'ai commencé à développer mes premières extensions en Java sur la toute première version de Minecraft.
+              Depuis je n'ai jamais cessé de porter un intérêt au développement et plus généralement au monde de l'informatique.
+              Voilà près de 10 ans que je joue de mes connaissances en développement aussi bien en web que sur des plateformes de jeux comme Minecraft,
+              <a href="https://www.sa-mp.com/" target="_blank">GTA San Andreas Multiplayer</a> et même plus récemment sur <a href="https://fivem.net/" target="_blank">FiveM</a> et <a href="https://redm.gg/" target="_blank">RedM</a>. 
             </p>
           </div>
         </div>
@@ -48,8 +48,8 @@
         <div class="section-title">
           <h2>Mes compétences</h2>
           <p class="mb-4">
-            Voilà près de 10 ans que mon simple intérêt à l'informatique me porte sur différentes technologies.<br />
-            Voici un celle qui ont retentent mon attention et sur les quel je m’implique activement
+            Voilà près de 10 ans que mon intérêt à l'informatique me porte sur différentes technologies.<br />
+            Voici celles qui ont particulièrement retenues mon attention et sur lesquelles je m’implique activement
           </p>
         </div>
 
@@ -163,7 +163,7 @@
 
         <div class="section-title">
           <h2>Mes expériences et projets</h2>
-          <p>Voici la liste de mes expériences en entreprise dans le numérique et une partie de mes projets rendue publique</p>
+          <p>Voici la liste de mes expériences en entreprises dans le numérique et une partie de mes projets rendus publics</p>
         </div>
 
         <div class="row">
@@ -174,28 +174,28 @@
               <p class="small"><i>(Le dépôt reste privé en vue d'une commercialisation du projet)</i></p>
               <h5>2018 - Aujourd'hui</h5>
               <p><em>Plateforme de gestion et d’administration de cloud</em></p>
-              <p>L’objectif de ce projet est de déployer une plateforme permanentant de commander, facturé et administrer des services managés et des serveurs physiques. Interconnecter des infrastructures physiques de différents data centers (AWS, GCP, OVH, ...) pour le créer qu'un seul service final.</p>
+              <p>L’objectif de ce projet est de déployer une plateforme permettant de commander, facturer et administrer des services managés et des serveurs physiques. Interconnecter des infrastructures physiques de différents data centers (AWS, GCP, OVH, ...) pour ne créer qu'un seul service final.</p>
             </div>
             <div class="resume-item">
               <h4>Serveur GTA:RP</h4>
               <p class="small"><i>(Le dépôt reste privé en cas de redémarrage du projet)</i></p>
               <h5>2018 - 2020</h5>
               <p><em>Serveur de jeu roleplay en multijoueur basé sur GTA V</em></p>
-              <p>Un projet développé avec plusieurs collaborateurs visant à recréer un monde réel dans GTA V. Métiers, activées de divertissements, services d'urgence, etc. Un véritable monde dans un jeu.</p>
+              <p>Un projet développé avec plusieurs collaborateurs visant à recréer un monde réel dans GTA V. Métiers, activités de divertissements, services d'urgence, etc. Un véritable monde dans un jeu.</p>
             </div>
             <div class="resume-item">
               <h4>LCBD Manager</h4>
               <p class="small"><a href="https://github.com/SimonRTC/lcdb-manager" target="_BLANK">github.com/SimonRTC/lcdb-manager</a></p>
               <h5>2018 - 2019</h5>
               <p><em>Interface d’administration pour le lycée collège de Bretagne</em></p>
-              <p>Un service de gestion complémentaire du logiciel "Pronote", permettant l'import des élèves et la création du trombinoscope par classe. Un service de gestion de la partie restauration de l'établissement est également disponible.</p>
+              <p>Un service de gestion complémentaire du logiciel "Pronote", permettant l'import des élèves et la création d'un trombinoscope par classe. Un service de gestion du service de restauration de l'établissement est également disponible.</p>
             </div>
             <div class="resume-item">
               <h4>Frameshort</h4>
               <p class="small"><a href="https://github.com/SimonRTC/frameshort" target="_BLANK">github.com/SimonRTC/frameshort</a></p>
               <h5>2016 - Aujourd'hui</h5>
               <p><em>Framework PHP (MVC) léger et simple d'utilisation</em></p>
-              <p>Suite à un besoin d'un framework léger, simple à comprendre et rapide à déployer. J'ai donc commencé le développement du "frameshort" une base légère et minimaliste pour mes petits projets.</p>
+              <p>Suite à un besoin d'un framework léger, simple à comprendre et rapide à déployer, j'ai développé "frameshort", une base légère et minimaliste pour mes petits projets.</p>
             </div>
           </div>
           <div class="col-lg-6">
@@ -205,12 +205,11 @@
               <h5>Mars 2020</h5>
               <p><em><a href="http://www.saiga.fr/">Saiga Informatique</a></em></p>
               <ul>
-                <li>Intégration d'un module open source de statistique au progiciel iMuse</li>
+                <li>Intégration d'un module open source de statistiques au progiciel iMuse</li>
                 <li>Création d'un service de logs pour la connexion à l'extranet</li>
                 <li>Affichage de logs dans un tableau de statistiques</li>
-                <li>Intégration des statistiques ministérielle dans un tableau graphique</li>
+                <li>Intégration des statistiques ministérielles dans un tableau graphique</li>
                 <li>Création d'un service d'export capable de croiser l'ensemble des data-sets de données du progiciel pour générer des graphiques à la demande. </li>
-                <li><b><i>En raison du coronavirus et des mesures gouvernementales prise en conséquence, l'entreprise a pris la décision d'interrompre le stage avant la fin.</i></b></li>
               </ul>
             </div>
             <div class="resume-item">
@@ -228,7 +227,7 @@
               <h5>Janvier 2017</h5>
               <p><em><a href="https://boutique.isigny.org/">Isigny</a></em></p>
               <ul>
-                <li>Sécurisation des requêtes envoyées depuis les badgeuse au serveur de <a href="https://gestion.bensport.fr/" target="_blank">Gest-ACCESS</a></li>
+                <li>Sécurisation des requêtes envoyées depuis les badgeuses RFID au serveur de <a href="https://gestion.bensport.fr/" target="_blank">Gest-ACCESS</a></li>
                 <li>Mise à niveau de l'infrastructure client existante</li>
               </ul>
             </div>
@@ -244,7 +243,7 @@
 
         <div class="section-title">
           <h2>Mes lieux d'apprentissage</h2>
-          <p>Voici la liste des plateformes qui m'ont permis d'apprendre et étoffer mes connaissances</p>
+          <p>Voici la liste des plateformes qui m'ont permis d'apprendre et d'étoffer mes connaissances</p>
         </div>
 
         <div class="row">
@@ -258,7 +257,7 @@
                 <i class="bx bx-code-alt"></i>
               </div>
               <h4><a href="https://www.grafikart.fr/">Grafikart.fr</a></h4>
-              <p>La meilleure plateforme d’apprentissage !<br />Une large gamme de contenue et une pédagogie incroyable !</p>
+              <p>La meilleure plateforme d’apprentissage !<br />Une large gamme de contenus et une pédagogie incroyable !</p>
             </div>
           </div>
 
@@ -271,7 +270,7 @@
                 <i class="bx bx-file"></i>
               </div>
               <h4><a href="https://openclassrooms.com/fr/">OpenClassrooms</a></h4>
-              <p>Des cours complets et une grande diversité des contenues, des formations certifiante et reconnues.</p>
+              <p>Des cours complets et une grande diversité des contenus, des formations certifiantes et reconnues.</p>
             </div>
           </div>
 
@@ -310,7 +309,7 @@
                 <i class="bx bx-arch"></i>
               </div>
               <h4><a href="https://devdocs.io/">devdocs.io</a></h4>
-              <p>La référence pour trouver son bonheur en quelques instants dans le domaine du frontend</p>
+              <p>La référence pour trouver son bonheur en quelques instants dans le domaine du développement</p>
             </div>
           </div>
 
@@ -323,7 +322,7 @@
                 <i class="bx bx-slideshow"></i>
               </div>
               <h4><a href="https://www.youtube.com/">YouTube</a></h4>
-              <p>Permets souvent d'imager une problématique et d'en venir à bout rapidement</p>
+              <p>Permet souvent d'imager une problématique et d'en venir à bout rapidement</p>
             </div>
           </div>
 

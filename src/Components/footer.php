@@ -3,7 +3,7 @@
   <footer id="footer">
     <div class="container">
       <h4>Le code de mon portfolio est <b>open source</b></h4>
-      <p>Si vous souhaitez voir ce qui se cache derrière cette page de présentation n'hésitez pas à consulter le dépôts <a href="https://github.com/SimonRTC/portfolio/">GitHub</a>!</p>
+      <p>Si vous souhaitez voir ce qui se cache derrière cette page de présentation n'hésitez pas à consulter le dépôt <a href="https://github.com/SimonRTC/portfolio/">GitHub</a>!</p>
       <div class="copyright">
         &copy; GNU General Public License v3.0 <strong><span><a href="https://github.com/SimonRTC/portfolio/blob/master/LICENSE">Simon Malpel</a></span></strong>. All Rights Reserved
       </div>
