@@ -15,6 +15,22 @@ class Portfolio {
         $Response->load("portfolio");
         return;
     }
+        
+    /**
+     * Display server configuration
+     *
+     * @param  object $Response
+     * @param  array $Binded
+     * @return void
+     */
+    public function DisplayServerConf(\Portfolio\Response $Response, array $Binded = []): void {
+        $Infos                                                  = [];
+        $Infos['SERVER_IP']                                     = $_SERVER['SERVER_ADDR'];
+        [$Infos['engine'], $Infos['OS'], $Infos['PhpVersion']]  = \explode(" ", $_SERVER['SERVER_SOFTWARE']);
+        $Infos['OS']                                            = trim($Infos['OS'], "()");
+        $Response->load("conf-info", $Infos);
+        return;
+    }
 
 }
 

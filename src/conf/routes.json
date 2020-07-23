@@ -3,5 +3,10 @@
         "method": "GET",
         "pattern": "/",
         "service": "Portfolio::Landing"
+    },
+    {
+        "method": "GET",
+        "pattern": "/conf-info/",
+        "service": "Portfolio::DisplayServerConf"
     }
 ]
