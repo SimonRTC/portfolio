@@ -12,8 +12,10 @@ class GitHub {
      * @return void
      */
     public function EventListener(\Portfolio\Response $Response, array $Binded = []): void {
-        $datas = json_encode($_POST);
-        \file_put_contents((realpath(__DIR__ . "/../../tmp/") . "/github-latest.json"), $datas);
+        $datas  = json_encode($_POST);
+        $path   = realpath(__DIR__ . "/../../tmp/") . "/github-latest.json";
+        \file_put_contents($path, $datas);
+        echo $path;
         return;
     }
 
