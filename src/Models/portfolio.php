@@ -1,4 +1,32 @@
-<main id="main">
+  
+  <!-- ======= Mobile nav toggle button ======= -->
+  <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex flex-column justify-content-center">
+
+    <nav class="nav-menu">
+      <ul>
+        <li class="active"><a href="#hero"><i class="bx bx-home"></i> <span>Qui suis-je ?</span></a></li>
+        <li><a href="#about"><i class="bx bx-user"></i> <span>À propos de moi</span></a></li>
+        <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Mon histoire</span></a></li>
+        <li><a href="#learning-places"><i class="bx bxs-edit-location"></i> <span>Mes lieux d'apprentissage</span></a></li>
+        <li><a href="#contact"><i class="bx bx-envelope"></i> <span>Contactez moi</span></a></li>
+      </ul>
+    </nav><!-- .nav-menu -->
+
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex flex-column justify-content-center">
+    <div class="container" data-aos="zoom-in" data-aos-delay="100">
+      <h1>Simon Malpel</h1>
+      <p>Comment me décrire en plus ou moins une phrase?</p>
+      <p>Je suis <span class="typed" data-typed-items="passionné par le numérique, constamment à la recherche d’innovations"></span></p>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
@@ -375,3 +403,10 @@
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
+
+  <footer id="footer" class="mb-n5">
+    <div class="container">
+      <h4>Le code de mon portfolio est <b>open source</b></h4>
+      <p>Si vous souhaitez voir ce qui se cache derrière cette page de présentation n'hésitez pas à consulter le dépôt <a href="https://github.com/SimonRTC/portfolio/">GitHub</a>!</p>
+    </div>
+  </footer>
